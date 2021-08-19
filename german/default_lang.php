@@ -1301,7 +1301,7 @@ $lang["notification_test_push_notification"] = "Es ist eine Demo-Push-Benachrich
 $lang["push_notification_error_message"] = "Error! Über die Anmeldeinformationen kann keine Verbindung zum Pusher hergestellt werden.";
 $lang["clone_estimate"] = "Klon schätzung";
 
-$lang["import_clients"] = "Clients importieren";
+$lang["import_clients"] = "Kunden importieren";
 $lang["download_sample_file"] = "Beispieldatei herunterladen";
 
 $lang["estimate_settings"] = "Schätzung Einstellungen";
@@ -1325,23 +1325,23 @@ $lang["add_lead_status"] = "Lead-Status hinzufügen";
 $lang["edit_lead_status"] = "Lead-Status bearbeiten";
 $lang["delete_lead_status"] = "Lead-Status löschen";
 $lang["owner"] = "Inhaberin";
-$lang["make_client"] = "Client machen";
+$lang["make_client"] = "Kunden anlegen";
 $lang["client_contacts"] = "Kundenkontakte";
 $lang["lead_contacts"] = "Lead-Kontakte";
 $lang["add_a_lead"] = "Fügen Sie einen Lead hinzu";
 $lang["source"] = "Quelle";
-$lang["lead_source"] = "Bleiquelle";
-$lang["add_lead_source"] = "Leadquelle hinzufügen";
+$lang["lead_source"] = "Lead-Quelle";
+$lang["add_lead_source"] = "Lead-Quelle hinzufügen";
 $lang["edit_lead_source"] = "Bearbeiten Sie die Lead-Quelle";
-$lang["delete_lead_source"] = "Leadquelle löschen";
+$lang["delete_lead_source"] = "Lead-Quelle löschen";
 $lang["custom_field_migration"] = "Benutzerdefinierte Feldmigration";
 $lang["merge_custom_fields"] = "Benutzerdefinierte Felder zusammenführen";
 $lang["do_not_merge"] = "Nicht zusammenführen";
 $lang["merge_custom_fields_help_message"] = "Wenn für %s ähnliche benutzerdefinierte Felder vorhanden sind, werden diese Werte zu diesen hinzugefügt. Andernfalls werden neue benutzerdefinierte Felder für %s erstellt und diesen Werte hinzugefügt.";
-$lang["lead_created"] = "Blei erstellt";
+$lang["lead_created"] = "Lead erstellt";
 $lang["notification_lead_created"] = "Erstellt einen neuen Lead.";
-$lang["client_created_from_lead"] = "Client aus Lead erstellt";
-$lang["notification_client_created_from_lead"] = "Lead in Client konvertiert.";
+$lang["client_created_from_lead"] = "Kunden aus Lead erstellt";
+$lang["notification_client_created_from_lead"] = "Lead in Kunden konvertiert.";
 $lang["project_deadline"] = "Projekttermin";
 $lang["task_deadline"] = "Aufgaben frist";
 $lang["event_type"] = "Ereignistyp";
@@ -1353,7 +1353,7 @@ $lang["there_has_leads_with_this_status"] = "Es gibt Leads mit diesem Status";
 $lang["lead_created_at"] = "Lead erstellt bei";
 $lang["past_lead_information"] = "Frühere Lead-Informationen";
 $lang["last_status"] = "Letzter Status";
-$lang["migrated_to_client_at"] = "Migriert zum Client um";
+$lang["migrated_to_client_at"] = "Migriert zum Kunden um";
 $lang["edit_estimate_form"] = "Schätzungsformular bearbeiten";
 
 $lang["please_upload_a_excel_file"] = "Bitte laden Sie eine Excel-Datei hoch.";
@@ -1368,7 +1368,7 @@ $lang["contact_first_name"] = "Kontakt Vorname";
 $lang["contact_last_name"] = "Kontakt Nachname";
 $lang["contact_email"] = "Kontakt E-mail";
 
-$lang["clone_invoice"] = "Clone Rechnung";
+$lang["clone_invoice"] = "Rechnung klonen";
 $lang["copy_items"] = "Elemente kopieren";
 $lang["copy_discount"] = "Kopierrabatt";
 
@@ -1385,7 +1385,7 @@ $lang["imap_extension_error_help_message"] = "Sie haben keine IMAP-Erweiterung a
 $lang["initial_number_of_the_invoice"] = "Anfangsnummer der Rechnung";
 $lang["the_invoices_id_must_be_larger_then_last_invoice_id"] = "Die Rechnungs-ID muss größer sein als die letzte Rechnungs-ID.";
 
-$lang["client_dashboard_help_message"] = "Dies ist das Standard-Dashboard für alle Clients. Bitte beachten Sie, dass die Informationen, die Sie hier in den Widgets sehen, keine tatsächlichen Informationen von Kunden sind.";
+$lang["client_dashboard_help_message"] = "Dies ist das Standard-Dashboard für alle Kunden. Bitte beachten Sie, dass die Informationen, die Sie hier in den Widgets sehen, keine tatsächlichen Informationen von Kunden sind.";
 
 $lang["send_to_lead"] = "Senden, um zu führen";
 $lang["lead"] = "Führen";
@@ -1416,7 +1416,7 @@ $lang["note_details"] = "Details beachten";
 $lang["public_note_by"] = "Öffentliche Notiz durch";
 $lang["marked_as_public"] = "Als öffentlich markiert";
 
-$lang["client_can_view_activity"] = "Client kann Projektaktivität ansehen";
+$lang["client_can_view_activity"] = "Kunde kann Projektaktivität ansehen";
 
 $lang["event_settings"] = "Ereigniseinstellungen";
 $lang["enable_google_calendar_api"] = "Aktivieren Sie die Google Kalender-API";
@@ -1428,7 +1428,7 @@ $lang["now_every_user_can_integrate_with_their_google_calendar"] = "Jetzt kann j
 $lang["calendar_ids_help_message"] = "Sie erhalten immer Ihre eigenen Kalenderereignisse. Dies gilt für andere Sonderkalender (wie Feiertagskalender).";
 
 $lang["google_client_id"] = "Kunden ID";
-$lang["google_client_secret"] = "Client-Geheimnis";
+$lang["google_client_secret"] = "Kunden-Geheimnis";
 $lang["integrate_with_google_calendar"] = "In Google Kalender integrieren";
 $lang["google_calendar_event"] = "Google Kalender-Ereignis";
 
@@ -1451,7 +1451,7 @@ $lang["task_point_range"] = "Aufgabe Punktbereich";
 
 $lang["gdpr"] = "GDPR";
 $lang["enable_gdpr"] = "aktivieren GDPR";
-$lang["allow_clients_to_export_their_data"] = "Ermöglichen Sie Clients, ihre Daten zu exportieren";
+$lang["allow_clients_to_export_their_data"] = "Ermöglichen Sie Kunden, ihre Daten zu exportieren";
 $lang["export_my_data"] = "Exportiere meine Daten";
 
 $lang["clients_can_request_account_removal"] = "Kunden können die Entfernung des Kontos beantragen";
@@ -1486,14 +1486,14 @@ $lang["dependency"] = "Abhängigkeit";
 
 $lang["estimate_request_settings"] = "Estimate Anfrage Einstellungen";
 $lang["hidden_client_fields_on_public_estimate_requests"] = "Blenden Sie Felder vor öffentlichen Kostenvoranschlagsformularen aus";
-$lang["hidden_client_fields"] = "Versteckte Clientfelder";
+$lang["hidden_client_fields"] = "Versteckte Kundenfelder";
 
 $lang["account"] = "Konto";
 $lang["common"] = "Verbreitet";
 
 $lang["tax_deducted_at_source"] = "TDS";
 $lang["auto_close_ticket_after"] = "Ticket automatisch schließen nach"; //after x days
-$lang["disable_user_invitation_option_by_clients"] = "Deaktivieren Sie die Benutzereinladungsoption durch Clients";
+$lang["disable_user_invitation_option_by_clients"] = "Deaktivieren Sie die Benutzereinladungsoption durch Kunden";
 $lang["create_tickets_only_by_registered_emails"] = "Erstellen Sie Tickets nur per registrierten E-Mail";
 $lang["icon"] = "Ikone";
 $lang["help_articles"] = "Hilfeartikel";
@@ -1503,11 +1503,11 @@ $lang["knowledge_base_categories"] = "KB-Kategorien";
 
 $lang["rtl"] = "RTL";
 
-$lang["disable_editing_by_clients"] = "Deaktivieren Sie die Bearbeitung durch Clients";
+$lang["disable_editing_by_clients"] = "Deaktivieren Sie die Bearbeitung durch Kunden";
 
 $lang["client_left_menu"] = "Linkes Menü";
-$lang["left_menu_for_client"] = "Linkes Menü für Client";
-$lang["left_menu_setting_help_message_for_client"] = "Dies ist das Standardmenü für Clients. Bitte beachten Sie, dass die Menüpunkte gemäß den Berechtigungen des Kundenkontakts verteilt werden.";
+$lang["left_menu_for_client"] = "Linkes Menü für Kunden";
+$lang["left_menu_setting_help_message_for_client"] = "Dies ist das Standardmenü für Kunden. Bitte beachten Sie, dass die Menüpunkte gemäß den Berechtigungen des Kundenkontakts verteilt werden.";
 $lang["available_menu_items"] = "Verfügbare Menüpunkte";
 $lang["drag_and_drop_items_here"] = "Ziehen Sie hier Elemente per Drag & Drop";
 $lang["no_more_items_available"] = "Keine weiteren Artikel verfügbar";
@@ -1522,7 +1522,7 @@ $lang["gdpr_terms_and_conditions_link"] = "Allgemeine Geschäftsbedingungen URL"
 $lang["gdpr_terms_and_conditions"] = "Geschäftsbedingungen";
 $lang["removal_request_pending"] = "Entfernungsanforderung ausstehend";
 
-$lang["client_access_files_help_message"] = "Die Dateien, die sich in der Client-Detailansicht befinden, werden auf der Registerkarte Dateien angezeigt.";
+$lang["client_access_files_help_message"] = "Die Dateien, die sich in der Kunden-Detailansicht befinden, werden auf der Registerkarte Dateien angezeigt.";
 $lang["estimate_request_name_email_error_message"] = "E-Mails können nicht ohne Vor- und Nachnamen angezeigt werden.";
 
 $lang["slug"] = "Schnecke";
@@ -1531,13 +1531,13 @@ $lang["add_assignee"] = "Bevollmächtigten hinzufügen";
 $lang["client_can_pay_invoice_without_login"] = "Der Kunde kann Rechnungen ohne Login bezahlen";
 $lang["client_can_pay_invoice_without_login_help_message"] = "Bitte fügen Sie die PUBLIC_PAY_INVOICE_URL in die Rechnungs-E-Mail-Benachrichtigungsvorlage ein.";
 
-$lang["link_to_existing_client"] = "Link zum bestehenden Client";
+$lang["link_to_existing_client"] = "Link zum bestehenden Kunden";
 $lang["link_to_new_client"] = "Link zum neuen Kunden";
 
-$lang["client_can_view_files"] = "Client kann Dateien anzeigen?";
-$lang["client_can_add_files"] = "Client kann Dateien hinzufügen?";
+$lang["client_can_view_files"] = "Kunde kann Dateien anzeigen?";
+$lang["client_can_add_files"] = "Kunde kann Dateien hinzufügen?";
 $lang["client_can_view_activity"] = "Kunde kann Projektaktivität anzeigen?";
-$lang["client_can_edit_projects"] = "Client kann Projekte bearbeiten?";
+$lang["client_can_edit_projects"] = "Kunde kann Projekte bearbeiten?";
 
 $lang["view_pdf"] = "PDF anzeigen";
 
@@ -1608,9 +1608,9 @@ $lang["ticket_assigned"] = "Ticket zugewiesen";
 $lang["notification_ticket_assigned"] = "Ticket zugewiesen an %s";
 
 $lang["disable_access_favorite_project_option_for_clients"] = "Deaktivieren Sie Zugang Lieblingsprojekt Option für Kunden";
-$lang["disable_editing_left_menu_by_clients"] = "Deaktivieren Sie die Bearbeitung des linken Menüs durch Clients";
+$lang["disable_editing_left_menu_by_clients"] = "Deaktivieren Sie die Bearbeitung des linken Menüs durch Kunden";
 $lang["disable_topbar_menu_customization"] = "Deaktivieren Sie die Anpassung des Topbar-Menüs";
-$lang["disable_dashboard_customization_by_clients"] = "Deaktivieren Sie die Dashboard-Anpassung durch Clients";
+$lang["disable_dashboard_customization_by_clients"] = "Deaktivieren Sie die Dashboard-Anpassung durch Kunden";
 
 $lang["task_start_date"] = "Startdatum der Aufgabe";
 $lang["project_start_date"] = "Projektstartdatum";
@@ -1627,7 +1627,7 @@ $lang["visible_to_clients_only"] = "Nur für Kunden sichtbar";
 
 $lang["open_in_new_tab"] = "In neuem Tab öffnen";
 
-$lang["client_can_delete_own_files_in_project"] = "Client können eigene Dateien im Projekt löschen";
+$lang["client_can_delete_own_files_in_project"] = "Kunden können eigene Dateien im Projekt löschen";
 
 $lang["enable_slack"] = "Enable slack";
 $lang["get_the_webhook_url_of_your_app_from_here"] = "Hier können Sie die Webhook-URL Ihrer App abrufen:";
@@ -1692,9 +1692,9 @@ $lang["notification_timeline_post_commented"] = "Kommentar zu einem Beitrag.";
 $lang["created_a_new_post"] = "Erstellt einen neuen Beitrag";
 $lang["notification_created_a_new_post"] = "Erstellt einen neuen Beitrag.";
 
-$lang["verify_email_before_client_signup"] = "Überprüfen Sie die E-Mail-Adresse vor der Client-Anmeldung";
+$lang["verify_email_before_client_signup"] = "Überprüfen Sie die E-Mail-Adresse vor der Kunden-Anmeldung";
 $lang["input_your_email"] = "Geben Sie Ihre E-Mail-Adresse ein";
-$lang["verify_email"] = "Client-E-Mail-Überprüfung";
+$lang["verify_email"] = "Überprüfung der Kunden-E-Mail";
 $lang["please_continue_your_signup_process"] = "Bitte setzen Sie Ihren Anmeldevorgang fort.";
 $lang["get_started"] = "Loslegen";
 
@@ -1736,7 +1736,7 @@ $lang["process_order"] = "Prozessauftrag";
 $lang["place_order"] = "Bestellung aufgeben";
 $lang["edit_item"] = "Element bearbeiten";
 $lang["store"] = "Geschäft";
-$lang["client_can_access_store"] = "Client kann auf Geschäft zugreifen?";
+$lang["client_can_access_store"] = "Kunde kann auf Geschäft zugreifen?";
 $lang["added_to_cart"] = "In den Warenkorb gelegt";
 $lang["can_access_orders"] = "Kann auf Bestellungen zugreifen?";
 
